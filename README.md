@@ -29,10 +29,12 @@ OR
  
 ```bash
 !git clone https://github.com/goncalo179/UberEatsAnalysis.git
+```
 
 2. Install dependencies:
     
 ```bash
 pip install -r requirements.txt
-    
+```
+
 3. Open and run the Jupyter Notebook.
