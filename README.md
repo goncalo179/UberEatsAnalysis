@@ -8,17 +8,31 @@ This project explores UberEats order data to understand customer behavior and pr
 - **notebooks/**: Jupyter notebooks with data cleaning, visualization, and analysis ("uber_eats_analysis.ipynb").
 - **requirements.txt**: Dependencies needed to run the project.
 
+## Project Overview (Expanded)
+The Jupyter Notebook includes:
+- Step-by-step explanations of functions and methods used.
+- Theoretical insights behind data science concepts applied in the analysis.
+- Comments within the code to clarify the logic and approach.
+
 ## Key Insights
 - Identified peak ordering times and popular cuisines.
 - Recommended strategies like prioritizing popular cuisines, (such as, American, Chinese, Japanese, Italian and also the not so popular, but high potential and rising in popularity, Mexican) for marketing and promotions on the weekend.
 
 ## Requirements
-To run this project, you'll need:
-- Google Colab (Recommended, Python 3.x pre-installed)
-- OR Local Setup: Requires Python 3.x (Download from python.org)
-- Packages listed in "requirements.txt"
+- Google Colab (Recommended) - Python 3.x pre-installed)
+OR
+- Local Setup - Requires Python 3.x (Download from python.org)
+- Install required packages from "requirements.txt"
 
 ## Usage
-1. Clone the repository using "!git clone https://github.com/goncalo179/UberEatsAnalysis.git".
-2. Install dependencies using "pip install -r requirements.txt".
+1. Clone the repository:
+ 
+```bash
+!git clone https://github.com/goncalo179/UberEatsAnalysis.git
+
+2. Install dependencies:
+    
+```bash
+pip install -r requirements.txt
+    
 3. Open and run the Jupyter Notebook.
