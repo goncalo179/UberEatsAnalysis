@@ -4,8 +4,8 @@
 This project explores UberEats order data to understand customer behavior and provide data-driven recommendations. The analysis covers ordering trends, popular restaurants, and food preferences.
 
 ## Project Structure
-- **data/**: Contains the raw data files ("orders_data.csv").
-- **notebooks/**: Jupyter notebooks with data cleaning, visualization, and analysis ("uber_eats_analysis.ipynb").
+- **data/**: Contains the raw data files ("foodhub_order.csv").
+- **notebooks/**: Jupyter notebooks with data cleaning, visualization, and analysis ("FoodHub_Data_Analysis.ipynb").
 - **requirements.txt**: Dependencies needed to run the project.
 
 ## Project Overview (Expanded)
@@ -19,9 +19,8 @@ The Jupyter Notebook includes:
 - Recommended strategies like prioritizing popular cuisines, (such as, American, Chinese, Japanese, Italian and also the not so popular, but high potential and rising in popularity, Mexican) for marketing and promotions on the weekend.
 
 ## Requirements
-- Google Colab (Recommended) - Python 3.x pre-installed)
-OR
-- Local Setup - Requires Python 3.x (Download from python.org)
+- Google Colab (Recommended) - Python 3.x pre-installed
+- OR Local Setup - Requires Python 3.x (Download from python.org)
 - Install required packages from "requirements.txt"
 
 **Note:** If you're using Google Colab, prefix commands with "!", e.g., "!git clone ...". On a local setup, use the commands without "!", e.g., "git clone ...".
