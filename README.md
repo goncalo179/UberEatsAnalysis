@@ -3,6 +3,8 @@
 
 This project explores UberEats order data to understand customer behavior and provide data-driven recommendations. The analysis covers ordering trends, popular restaurants, and food preferences.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/goncalo179/UberEatsAnalysis/blob/main/notebooks/FoodHub_Data_Analysis.ipynb)
+
 ## Project Structure
 - **data/**: Contains the raw data files ("foodhub_order.csv").
 - **notebooks/**: Jupyter notebooks with data cleaning, visualization, and analysis ("FoodHub_Data_Analysis.ipynb").
